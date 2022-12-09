@@ -1,5 +1,0 @@
-.PHONY: all
-all: main
-
-main: possibleLabTestQuestion.c
-	gcc -o possibleLabTestQuestion possibleLabTestQuestion.c
